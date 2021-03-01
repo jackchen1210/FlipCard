@@ -1,0 +1,13 @@
+D:\Csharp\FlipCard\bin\Debug\netcoreapp3.1\FlipCard.exe
+D:\Csharp\FlipCard\bin\Debug\netcoreapp3.1\FlipCard.deps.json
+D:\Csharp\FlipCard\bin\Debug\netcoreapp3.1\FlipCard.runtimeconfig.json
+D:\Csharp\FlipCard\bin\Debug\netcoreapp3.1\FlipCard.runtimeconfig.dev.json
+D:\Csharp\FlipCard\bin\Debug\netcoreapp3.1\FlipCard.dll
+D:\Csharp\FlipCard\bin\Debug\netcoreapp3.1\FlipCard.pdb
+D:\Csharp\FlipCard\obj\Debug\netcoreapp3.1\FlipCard.csprojAssemblyReference.cache
+D:\Csharp\FlipCard\obj\Debug\netcoreapp3.1\FlipCard.AssemblyInfoInputs.cache
+D:\Csharp\FlipCard\obj\Debug\netcoreapp3.1\FlipCard.AssemblyInfo.cs
+D:\Csharp\FlipCard\obj\Debug\netcoreapp3.1\FlipCard.csproj.CoreCompileInputs.cache
+D:\Csharp\FlipCard\obj\Debug\netcoreapp3.1\FlipCard.dll
+D:\Csharp\FlipCard\obj\Debug\netcoreapp3.1\FlipCard.pdb
+D:\Csharp\FlipCard\obj\Debug\netcoreapp3.1\FlipCard.genruntimeconfig.cache
